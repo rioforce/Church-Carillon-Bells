@@ -30,5 +30,9 @@ Real bells in bell towers are often a thing of the past for many churches. Mine 
 
 ![DSC03929](https://github.com/rioforce/Church-Carillon-Bells/assets/3674297/4ec86e70-ad04-40dc-9cb9-8079d295c9b0)
 
+Video of Carillon in action:
+
+https://github.com/rioforce/Church-Carillon-Bells/assets/3674297/0f58ad12-75a1-48ce-b904-e67dd31eb2d8
+
 
 
