@@ -24,3 +24,11 @@ This was made for my church and all the hymn songs were recorded by the church's
 
 # Why?
 Real bells in bell towers are often a thing of the past for many churches. Mine included. The church installed loud-speakers on the top of the bell-tower in the 1980s, and purchased a ~ $50,000 music machine to play bell sounds. It broke, however, and it's prohibitably expensive to repair. Thus it sat, playing no bells for about 20 years. That's where I come in. I hook a 100W Amplifier to the cable that runs to the loudspeakers, I hook a Mac Mini to the amp, I write this program (with help from @le717), and wham, we have free carillon bells (sans the cost of the computer, but I found all this equipment at church just lying around, so technically for me this progject was completely free!). And now I want to share this with YOU. :) 
+
+
+![vlcsnap-2023-03-06-14h13m14s570](https://github.com/rioforce/Church-Carillon-Bells/assets/3674297/de4ec473-d5c9-4474-a675-ce3bd96437a5)
+
+![DSC03929](https://github.com/rioforce/Church-Carillon-Bells/assets/3674297/4ec86e70-ad04-40dc-9cb9-8079d295c9b0)
+
+
+
